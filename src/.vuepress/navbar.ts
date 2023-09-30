@@ -35,6 +35,11 @@ export default navbar([
     link: "/plugin/"
   },
   {
+    text: "蓝图",
+    link: "/blueprint/",
+    icon: "list"
+  },
+  {
     text: "官网",
     icon: "fab fa-internet-explorer",
     link: "https://www.dogelake.fun",

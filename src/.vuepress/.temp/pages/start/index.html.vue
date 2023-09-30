@@ -11,8 +11,8 @@
 <li>插件篇：服务器使用LiteLoaderBDS插件加载端，为服务器提供了便利的功能，但玩家也需要了解部分插件的用法。同时提供了方便管理使用插件的教程。</li>
 </ul>
 <h2 id="🔨-欢迎参与建设文档站" tabindex="-1"><a class="header-anchor" href="#🔨-欢迎参与建设文档站" aria-hidden="true">#</a> 🔨 欢迎参与建设文档站</h2>
-<p>如果您在阅读的过程中发现内容的谬误，或是想参与编辑文档，可以直接在<a href="//github.com/Tanya7z/Docs" target="_blank" rel="noopener noreferrer">Github界面<ExternalLinkIcon/></a>编辑。</p>
-<p><strong>接下来，您可以点击侧边栏或搜索进行查询。</strong></p>
+<p>如果您在阅读的过程中发现内容的谬误，或是想参与编辑文档，可以直接在<a href="//github.com/Tanya7z/DogeLakeDocs" target="_blank" rel="noopener noreferrer">Github界面<ExternalLinkIcon/></a>编辑。</p>
+<p><strong>接下来，您可以点击导航栏或搜索进行查询。</strong></p>
 </div></template>
 
 
