@@ -7,8 +7,13 @@ export const pagesRoutes = [
   ["v-369552b6","/blueprint/%E5%90%88%E4%BD%9C%E7%A4%BE.html",{"y":"a","t":"合作社"},["/blueprint/合作社.html","/blueprint/合作社.md",":md"]],
   ["v-262b5bd6","/blueprint/%E6%95%B4%E6%B4%BB%E6%96%B9%E6%A1%88.html",{"y":"a","t":"整活方案"},["/blueprint/整活方案.html","/blueprint/整活方案.md",":md"]],
   ["v-23ddb4c8","/blueprint/%E6%96%B0%E6%89%8B%E6%8C%87%E5%BC%95%E8%AE%A1%E5%88%92.html",{"y":"a","t":"新手指引计划"},["/blueprint/新手指引计划.html","/blueprint/新手指引计划.md",":md"]],
+  ["v-c0b54504","/item/%E6%96%B9%E5%9D%97.html",{"y":"a","t":"方块"},["/item/方块.html","/item/方块.md",":md"]],
+  ["v-27c49a32","/item/%E6%AD%A6%E5%99%A8.html",{"y":"a","t":"武器"},["/item/武器.html","/item/武器.md",":md"]],
+  ["v-4f734a63","/item/%E9%81%93%E5%85%B7.html",{"y":"a","t":"道具"},["/item/道具.html","/item/道具.md",":md"]],
+  ["v-24544408","/item/%E9%A3%9F%E7%89%A9.html",{"y":"a","t":"食物"},["/item/食物.html","/item/食物.md",":md"]],
   ["v-d72a4774","/start/",{"y":"a","t":""},["/start/README.md"]],
   ["v-3706649a","/404.html",{"y":"p","t":""},[]],
   ["v-7664c5fa","/basic/",{"y":"p","t":"Basic"},[]],
   ["v-01301096","/blueprint/",{"y":"p","t":"Blueprint"},[]],
+  ["v-14c0e823","/item/",{"y":"p","t":"Item"},[]],
 ]

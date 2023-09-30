@@ -7,3 +7,4 @@ git add -A
 git commit -m 'deploy'
 
 git push docs main
+Tanya7z

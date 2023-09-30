@@ -15,6 +15,14 @@ export const pagesData = {
   "v-262b5bd6": () => import(/* webpackChunkName: "v-262b5bd6" */"/data/data/com.termux/files/home/docs/src/.vuepress/.temp/pages/blueprint/整活方案.html.js").then(({ data }) => data),
   // path: /blueprint/%E6%96%B0%E6%89%8B%E6%8C%87%E5%BC%95%E8%AE%A1%E5%88%92.html
   "v-23ddb4c8": () => import(/* webpackChunkName: "v-23ddb4c8" */"/data/data/com.termux/files/home/docs/src/.vuepress/.temp/pages/blueprint/新手指引计划.html.js").then(({ data }) => data),
+  // path: /item/%E6%96%B9%E5%9D%97.html
+  "v-c0b54504": () => import(/* webpackChunkName: "v-c0b54504" */"/data/data/com.termux/files/home/docs/src/.vuepress/.temp/pages/item/方块.html.js").then(({ data }) => data),
+  // path: /item/%E6%AD%A6%E5%99%A8.html
+  "v-27c49a32": () => import(/* webpackChunkName: "v-27c49a32" */"/data/data/com.termux/files/home/docs/src/.vuepress/.temp/pages/item/武器.html.js").then(({ data }) => data),
+  // path: /item/%E9%81%93%E5%85%B7.html
+  "v-4f734a63": () => import(/* webpackChunkName: "v-4f734a63" */"/data/data/com.termux/files/home/docs/src/.vuepress/.temp/pages/item/道具.html.js").then(({ data }) => data),
+  // path: /item/%E9%A3%9F%E7%89%A9.html
+  "v-24544408": () => import(/* webpackChunkName: "v-24544408" */"/data/data/com.termux/files/home/docs/src/.vuepress/.temp/pages/item/食物.html.js").then(({ data }) => data),
   // path: /start/
   "v-d72a4774": () => import(/* webpackChunkName: "v-d72a4774" */"/data/data/com.termux/files/home/docs/src/.vuepress/.temp/pages/start/index.html.js").then(({ data }) => data),
   // path: /404.html
@@ -23,4 +31,6 @@ export const pagesData = {
   "v-7664c5fa": () => import(/* webpackChunkName: "v-7664c5fa" */"/data/data/com.termux/files/home/docs/src/.vuepress/.temp/pages/basic/index.html.js").then(({ data }) => data),
   // path: /blueprint/
   "v-01301096": () => import(/* webpackChunkName: "v-01301096" */"/data/data/com.termux/files/home/docs/src/.vuepress/.temp/pages/blueprint/index.html.js").then(({ data }) => data),
+  // path: /item/
+  "v-14c0e823": () => import(/* webpackChunkName: "v-14c0e823" */"/data/data/com.termux/files/home/docs/src/.vuepress/.temp/pages/item/index.html.js").then(({ data }) => data),
 }
