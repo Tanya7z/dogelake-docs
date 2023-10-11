@@ -1,0 +1,1 @@
+import{_ as t}from"./plugin-vue_export-helper-c27b6911.js";import{o as a,c as o,a as e,b as r}from"./app-746d0055.js";const c={},s=e("h1",{id:"方块",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#方块","aria-hidden":"true"},"#"),r(" 方块")],-1),_=[s];function n(d,i){return a(),o("div",null,_)}const f=t(c,[["render",n],["__file","方块.html.vue"]]);export{f as default};
